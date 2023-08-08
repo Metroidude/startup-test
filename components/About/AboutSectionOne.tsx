@@ -24,8 +24,8 @@ const AboutSectionOne = () => {
           <div className="-mx-4 flex flex-wrap items-center">
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
-                title="Crafted for Startup, SaaS and Business Sites."
-                paragraph="The main ‘thrust’ is to focus on educating attendees on how to best protect highly vulnerable business applications with interactive panel discussions and roundtables."
+                title="Made for students, by students."
+                paragraph="Back in 2021, a student named Joel Kendall wanted an easier way to get organized fast. But none existed. So he created Homework Muffin. Here are some of the benefits:"
                 mb="44px"
               />
 
@@ -35,15 +35,15 @@ const AboutSectionOne = () => {
               >
                 <div className="mx-[-12px] flex flex-wrap">
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Premium quality" />
-                    <List text="Tailwind CSS" />
-                    <List text="Use for lifetime" />
+                    <List text="Automatic organization" />
+                    <List text="Save time" />
+                    <List text="Study with less stress" />
                   </div>
 
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Next.js" />
-                    <List text="Rich documentation" />
-                    <List text="Developer friendly" />
+                    <List text="Improve your grades" />
+                    <List text="Live a more balanced life" />
+                    <List text="Get better grades" />
                   </div>
                 </div>
               </div>
@@ -55,8 +55,8 @@ const AboutSectionOne = () => {
                 data-wow-delay=".2s"
               >
                 <Image
-                  src="/images/about/about-image.svg"
-                  alt="about-image"
+                  src="/images/about/aspiring_student.png"
+                  alt="student looking to heaven"
                   fill
                   className="mx-auto max-w-full lg:mr-0"
                 />
