@@ -1,5 +1,10 @@
 import Image from "next/image";
 
+const problemText = "College has never been more demanding on the human person. According to recent psychological studies, more than two thirds of students suffer from some mental health issues. Whether it\'s stress, depression, or anxiety, something needs to be done.";
+const solutionText = "We can\'t solve all the world\'s problems, but we think we can help make school a little bit less stressful. We developed a way for students to get organized almost immediately, and to help them build healthy habits that will reduce stress and anxiety related to schoolwork.";
+const resultsText = "We believe that Homework Muffin can help students build healthy habits not just for school, but for all of life. By helping students get quickly organized and focused, they\'ll have more time to spend on the things that make life worth living.";
+
+
 const AboutSectionTwo = () => {
   return (
     <section className="py-16 md:py-20 lg:py-28">
@@ -24,7 +29,7 @@ const AboutSectionTwo = () => {
                   The Problem
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  College has never been more demanding on the human person. According to recent psychological studies, more than two thirds of students suffer from some mental health issues. Whether it's stress, depression, or anxiety, something needs to be done.
+                  {problemText}
                 </p>
               </div>
               <div className="mb-9">
@@ -32,7 +37,7 @@ const AboutSectionTwo = () => {
                   The Solution
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  We can't solve all the world's problems, but we think we can help make school a little bit less stressful. We developed a way for students to get organized almost immediately, and to help them build healthy habits that will reduce stress and anxiety related to schoolwork.
+                  {solutionText}
                 </p>
               </div>
               <div className="mb-1">
@@ -40,7 +45,7 @@ const AboutSectionTwo = () => {
                   The Results
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  We believe that Homework Muffin can help students build healthy habits not just for school, but for all of life. By helping students get quickly organized and focused, they'll have more time to spend on the things that make life worth living.
+                  {resultsText}
                 </p>
               </div>
             </div>
