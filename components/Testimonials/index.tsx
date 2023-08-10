@@ -19,7 +19,7 @@ const Testimonials = () => {
     <section className="relative z-10 bg-primary/[.03] py-16 md:py-20 lg:py-28">
       <div className="container">
         <SectionTitle
-          title="What Our Users Say"
+          title="What Our Students Say"
           paragraph="We've helped tons of students get organized fast. Here's what some of them have to say!"
           center
         />

@@ -25,7 +25,7 @@ const AboutSectionOne = () => {
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
                 title="Made for students, by students."
-                paragraph="Back in 2021, a student named Joel Kendall wanted an easier way to get organized fast. But none existed. So he created Homework Muffin. Here are some of the benefits:"
+                paragraph="Back in 2021, a student named Joel Kendall wanted an easier way to get organized fast, so he created Homework Muffin. Here are some of the benefits:"
                 mb="44px"
               />
 
@@ -51,7 +51,7 @@ const AboutSectionOne = () => {
 
             <div className="w-full px-4 lg:w-1/2">
               <div
-                className="wow fadeInUp relative mx-auto aspect-[25/24] max-w-[500px] lg:mr-0"
+                className="wow fadeInUp relative mx-auto aspect-[650/683] max-w-[500px] lg:mr-0"
                 data-wow-delay=".2s"
               >
                 <Image
