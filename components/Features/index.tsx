@@ -12,7 +12,7 @@ const Features = () => {
         <div className="container">
           <SectionTitle
             title="The Recipe for a Great Semester"
-            paragraph="Follow this recipe to stay organized throughout your semester:"
+            paragraph="Here's how it works. Follow this recipe to stay organized throughout your semester:"
             center
           />
 

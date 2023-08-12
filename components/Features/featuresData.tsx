@@ -44,7 +44,7 @@ const featuresData: Feature[] = [
     ),
     title: "Step Three: Plan",
     paragraph:
-      "Set aside specific time to get specific assignments done. Our app helps you block off time each week and reminds you when it's time to study.",
+      "Set aside specific time to get specific assignments done. Our app helps you block off time each week and reminds you when it's time to focus.",
   },
   {
     id: 1,
@@ -59,7 +59,7 @@ const featuresData: Feature[] = [
     ),
     title: "Step Four: Focus",
     paragraph:
-      "When it's time to focus, put a muffin in the oven. Your muffins will bake while you focus. If you end focus early, your muffins will be underdone.",
+      "When it's time to focus, put a muffin in the oven. Your muffins will bake while you focus. If you end focus early, your muffins will be underdone. Earn rewards for focusing.",
   },
 ];
 export default featuresData;

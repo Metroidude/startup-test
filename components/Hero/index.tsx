@@ -18,7 +18,7 @@ const Hero = () => {
                 Get Organized Fast with Homework Muffin
                 </h1>
                 <p className="mb-12 text-base font-medium !leading-relaxed text-body-color dark:text-white dark:opacity-90 sm:text-lg md:text-xl">
-                Instantly import your assignments, quickly organize your schedule, and get rewarded for doing school. Coming 2024
+                Instantly import your assignments, quickly organize your schedule, and ditch that mid-semester feeling of chaos. Coming 2024
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link

@@ -25,7 +25,7 @@ const AboutSectionOne = () => {
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
                 title="Made for students, by students."
-                paragraph="Back in 2021, a student named Joel Kendall wanted an easier way to get organized fast, so he created Homework Muffin. Here are some of the benefits:"
+                paragraph="Back in 2021, a student named Joel Kendall was overwhelmed by the organizational demands that school placed on him, so he created Homework Muffin. Here's how we can help:"
                 mb="44px"
               />
 
@@ -35,15 +35,15 @@ const AboutSectionOne = () => {
               >
                 <div className="mx-[-12px] flex flex-wrap">
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Automatic organization" />
-                    <List text="Save time" />
-                    <List text="Study with less stress" />
+                    <List text="Automatically track your assignments" />
+                    <List text="Break assignments down into smaller chunks" />
+                    <List text="Organize and balance your calendar" />
                   </div>
 
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Improve your grades" />
-                    <List text="Live a more balanced life" />
-                    <List text="Get better grades" />
+                    <List text="Build healthy study habits" />
+                    <List text="Eliminate distractions" />
+                    <List text="Study the right things at the right time" />
                   </div>
                 </div>
               </div>

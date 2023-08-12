@@ -1,8 +1,8 @@
 import Image from "next/image";
 
-const problemText = "The constant deadlines and grading can really take a toll on you. According to the APA, more than 60% of students are struggling with mental health.";
-const solutionText = "Good organizational skills can help reduce stress related to schoolwork, but many of them take too much time or are painful to use.";
-const resultsText = "Homework Muffin gives students the tools they need to become the organized students they've always wanted to be.";
+const problemText = "The constant deadlines and grading can really take a toll. According to the APA, more than 60% of students are struggling with mental health in one way or another.";
+const solutionText = "Good organizational skills can reduce stress related to schoolwork. By being organized, you can have peace of mind about upcoming assignments.";
+const resultsText = "Easily become as organized as you've always wanted to be by using Homework Muffin.";
 
 
 const AboutSectionTwo = () => {
